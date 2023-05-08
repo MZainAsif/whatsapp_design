@@ -1,16 +1,7 @@
 # whatsapp_design
 
-A new Flutter project.
+# Screenshots
+![Screenshot_2023-03-09-15-22-17-147_com example whatsapp_design](https://user-images.githubusercontent.com/126271975/236779612-15b6f4b4-6b0b-4add-91f4-32cb5ebf7f74.jpg)
+![Screenshot_2023-03-09-15-22-20-327_com example whatsapp_design](https://user-images.githubusercontent.com/126271975/236779630-61627cbb-2c9a-43b8-867b-7eae2b1473fe.jpg)
+![Screenshot_2023-03-09-15-22-45-995_com example whatsapp_design](https://user-images.githubusercontent.com/126271975/236779637-6b4eddc1-4050-4664-9015-317e4f7b3dd2.jpg)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
